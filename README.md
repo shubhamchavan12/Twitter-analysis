@@ -14,3 +14,4 @@
 *3.Tuesday has the most number of tweets in an overall weekday.*
 
 *4. Average Impression is around 595 respective.*
+![Screenshot_19](https://user-images.githubusercontent.com/108445074/191402314-df6c1351-1b46-41d1-8ffd-45b845faca57.png)
